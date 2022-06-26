@@ -29,7 +29,13 @@
    
 }
 
-
+.fotos img {
+    margin: 30px;
+    border: solid black;
+    display: flex;
+    justify-content: center;
+    
+}
 
 
 
