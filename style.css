@@ -7,6 +7,21 @@
 .logo {
 
     width: 70px;
-    height: 30px;
-    
+    height: 50px;
+
 }
+
+.navegador{
+    display: flex;
+    justify-content: end;
+    }
+
+.navegador li a {
+    text-decoration: none;
+    color: aliceblue;
+    list-style: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 30px;
+}
+    
+
