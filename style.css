@@ -50,12 +50,21 @@
 }
 
 .contactos{
-    text-decoration: solid black;
+    
     margin: 70px;
     display: flex;
     justify-content: center;
 
 }
+
+.contactos:hover {
+    transition:all 3s ;
+    transform: scale(2);
+    animation-duration: 3s initial;
+
+}
+
+
     
 
 
